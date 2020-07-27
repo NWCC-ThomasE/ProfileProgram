@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wbN6V9SayMUhDFQSQiGeWqPQO2Md+QXOHu98aUylfXNswwUA2jvLuesD/6tbK6XaW8ji8xkQhhg0GCKXeSuVIw==",
+  "dgSpecHash": "OdzjTP2BoEWQOhdFW6iOq+FxNEXaoKALIh7oYii0gcjB8tA1N2UrGPn7xVWr5wufdHn0OQi8MvSY0MyVtlx/BA==",
   "success": true,
-  "projectFilePath": "/home/theo/Documents/ProfileProgram/ProfileProgram.csproj",
+  "projectFilePath": "/home/theo/Documents/Github/ProfileProgram/ProfileProgram.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,13 @@
+/home/theo/Documents/Github/ProfileProgram/bin/Debug/netcoreapp3.1/ProfileProgram
+/home/theo/Documents/Github/ProfileProgram/bin/Debug/netcoreapp3.1/ProfileProgram.deps.json
+/home/theo/Documents/Github/ProfileProgram/bin/Debug/netcoreapp3.1/ProfileProgram.runtimeconfig.json
+/home/theo/Documents/Github/ProfileProgram/bin/Debug/netcoreapp3.1/ProfileProgram.runtimeconfig.dev.json
+/home/theo/Documents/Github/ProfileProgram/bin/Debug/netcoreapp3.1/ProfileProgram.dll
+/home/theo/Documents/Github/ProfileProgram/bin/Debug/netcoreapp3.1/ProfileProgram.pdb
+/home/theo/Documents/Github/ProfileProgram/obj/Debug/netcoreapp3.1/ProfileProgram.csprojAssemblyReference.cache
+/home/theo/Documents/Github/ProfileProgram/obj/Debug/netcoreapp3.1/ProfileProgram.AssemblyInfoInputs.cache
+/home/theo/Documents/Github/ProfileProgram/obj/Debug/netcoreapp3.1/ProfileProgram.AssemblyInfo.cs
+/home/theo/Documents/Github/ProfileProgram/obj/Debug/netcoreapp3.1/ProfileProgram.csproj.CoreCompileInputs.cache
+/home/theo/Documents/Github/ProfileProgram/obj/Debug/netcoreapp3.1/ProfileProgram.dll
+/home/theo/Documents/Github/ProfileProgram/obj/Debug/netcoreapp3.1/ProfileProgram.pdb
+/home/theo/Documents/Github/ProfileProgram/obj/Debug/netcoreapp3.1/ProfileProgram.genruntimeconfig.cache

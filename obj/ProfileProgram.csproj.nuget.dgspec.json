@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/theo/Documents/ProfileProgram/ProfileProgram.csproj": {}
+    "/home/theo/Documents/Github/ProfileProgram/ProfileProgram.csproj": {}
   },
   "projects": {
-    "/home/theo/Documents/ProfileProgram/ProfileProgram.csproj": {
+    "/home/theo/Documents/Github/ProfileProgram/ProfileProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/theo/Documents/ProfileProgram/ProfileProgram.csproj",
+        "projectUniqueName": "/home/theo/Documents/Github/ProfileProgram/ProfileProgram.csproj",
         "projectName": "ProfileProgram",
-        "projectPath": "/home/theo/Documents/ProfileProgram/ProfileProgram.csproj",
+        "projectPath": "/home/theo/Documents/Github/ProfileProgram/ProfileProgram.csproj",
         "packagesPath": "/home/theo/.nuget/packages/",
-        "outputPath": "/home/theo/Documents/ProfileProgram/obj/",
+        "outputPath": "/home/theo/Documents/Github/ProfileProgram/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/theo/.nuget/NuGet/NuGet.Config"
