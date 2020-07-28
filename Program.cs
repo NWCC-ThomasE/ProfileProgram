@@ -21,14 +21,18 @@ namespace ProfileProgram
                 "Favorite Number: "
             };
 
+            List<string> currentProf = new List<string>();
+
             Console.WriteLine("Type new or existing username:");
             string userInput = Console.ReadLine();
 
             if ( File.Exists($"Profiles/{userInput}") ) {
-                ProfileControl.ReadExistingProfile( $"Profiles/{userInput}", items);
+                ProfileControl.ReadExistingProfile( $"Profiles/{userInput}", items, currentProf);
             } else {
-                ProfileControl.CreateNewProfile( $"Profiles/{userInput}", items);
+                ProfileControl.CreateNewProfile( $"Profiles/{userInput}", items, currentProf);
             }
+
+            ProfileActions.StartingMenu();
         }
     }
 }

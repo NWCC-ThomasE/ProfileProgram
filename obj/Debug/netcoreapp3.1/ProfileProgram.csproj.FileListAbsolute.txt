@@ -11,3 +11,16 @@
 /home/theo/Documents/Github/ProfileProgram/obj/Debug/netcoreapp3.1/ProfileProgram.dll
 /home/theo/Documents/Github/ProfileProgram/obj/Debug/netcoreapp3.1/ProfileProgram.pdb
 /home/theo/Documents/Github/ProfileProgram/obj/Debug/netcoreapp3.1/ProfileProgram.genruntimeconfig.cache
+C:\Users\Theo\Documents\GitHub\ProfileProgram\bin\Debug\netcoreapp3.1\ProfileProgram.exe
+C:\Users\Theo\Documents\GitHub\ProfileProgram\bin\Debug\netcoreapp3.1\ProfileProgram.deps.json
+C:\Users\Theo\Documents\GitHub\ProfileProgram\bin\Debug\netcoreapp3.1\ProfileProgram.runtimeconfig.json
+C:\Users\Theo\Documents\GitHub\ProfileProgram\bin\Debug\netcoreapp3.1\ProfileProgram.runtimeconfig.dev.json
+C:\Users\Theo\Documents\GitHub\ProfileProgram\bin\Debug\netcoreapp3.1\ProfileProgram.dll
+C:\Users\Theo\Documents\GitHub\ProfileProgram\bin\Debug\netcoreapp3.1\ProfileProgram.pdb
+C:\Users\Theo\Documents\GitHub\ProfileProgram\obj\Debug\netcoreapp3.1\ProfileProgram.csprojAssemblyReference.cache
+C:\Users\Theo\Documents\GitHub\ProfileProgram\obj\Debug\netcoreapp3.1\ProfileProgram.AssemblyInfoInputs.cache
+C:\Users\Theo\Documents\GitHub\ProfileProgram\obj\Debug\netcoreapp3.1\ProfileProgram.AssemblyInfo.cs
+C:\Users\Theo\Documents\GitHub\ProfileProgram\obj\Debug\netcoreapp3.1\ProfileProgram.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Documents\GitHub\ProfileProgram\obj\Debug\netcoreapp3.1\ProfileProgram.dll
+C:\Users\Theo\Documents\GitHub\ProfileProgram\obj\Debug\netcoreapp3.1\ProfileProgram.pdb
+C:\Users\Theo\Documents\GitHub\ProfileProgram\obj\Debug\netcoreapp3.1\ProfileProgram.genruntimeconfig.cache
